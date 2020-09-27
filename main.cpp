@@ -2,6 +2,7 @@
 #include "shared_ptr.h"
 #include "test_object.h"
 
+// strange change
 template <typename T>
 struct custom_deleter
 {
