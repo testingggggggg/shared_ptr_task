@@ -13,3 +13,4 @@ add_executable(shared_ptr_testing
 set_property(TARGET shared_ptr_testing PROPERTY CXX_STANDARD 17)
 
 target_link_libraries(shared_ptr_testing gtest)
+// AAA
